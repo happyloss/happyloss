@@ -2,7 +2,7 @@
 - 👀 I’m interested in making app
 - 🌱 I’m currently learning how to handle algorithm, network, and database
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email: kangth207@gmail.com
+- 📫 How to reach me ...
 
 <!---
 happyloss/happyloss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
